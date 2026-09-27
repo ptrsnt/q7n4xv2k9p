@@ -21,18 +21,18 @@
       "iconURL": "https://raw.githubusercontent.com/ptrsnt/q7n4xv2k9p/main/Bloom-icon.png",
       "versions": [
         {
-          "version": "21.8.1",
+          "version": "21.8.2",
           "date": "2026-09-27",
-          "downloadURL": "https://raw.githubusercontent.com/ptrsnt/q7n4xv2k9p/main/Bloom-21.8.1.ipa",
-          "size": 2270482,
+          "downloadURL": "https://raw.githubusercontent.com/ptrsnt/q7n4xv2k9p/main/Bloom-21.8.2.ipa",
+          "size": 2272509,
           "minOSVersion": "17.0",
-          "localizedDescription": "Bloom con los últimos cambios visuales y de análisis. Actualización sobre la app existente conservando el almacenamiento local."
+          "localizedDescription": "Registro de productos por día y cantidad, sin horas ni cronómetros. Modo con hora opcional y análisis que excluye duraciones desconocidas. Conserva los registros anteriores."
         }
       ],
-      "version": "21.8.1",
+      "version": "21.8.2",
       "versionDate": "2026-09-27",
-      "downloadURL": "https://raw.githubusercontent.com/ptrsnt/q7n4xv2k9p/main/Bloom-21.8.1.ipa",
-      "size": 2270482
+      "downloadURL": "https://raw.githubusercontent.com/ptrsnt/q7n4xv2k9p/main/Bloom-21.8.2.ipa",
+      "size": 2272509
     }
   ]
 }
