@@ -6,12 +6,12 @@
       "name": "Panel Financiero",
       "bundleIdentifier": "com.panel.financiero",
       "developerName": "Personal",
-      "version": "1.1.1",
+      "version": "1.2",
       "versionDate": "2026-09-27",
-      "iconURL": "https://github.com/ptrsnt.png",
-      "downloadURL": "https://github.com/ptrsnt/q7n4xv2k9p/raw/refs/heads/main/PanelFinanciero-1.1.1.ipa",
-      "size": 1955955,
-      "localizedDescription": "Control financiero personal. Cartera, mejoras de objetivos y carruseles, límites de gasto en rojo y correcciones de eliminación y suscripciones."
+      "iconURL": "https://raw.githubusercontent.com/ptrsnt/q7n4xv2k9p/main/PanelFinanciero-icon.png",
+      "downloadURL": "https://github.com/ptrsnt/q7n4xv2k9p/raw/refs/heads/main/PanelFinanciero-1.2.ipa",
+      "size": 1956970,
+      "localizedDescription": "Control financiero personal. Plan del mes en porcentajes sobre la nómina anterior: gastos necesarios, hormiga, ahorro e inversión. Clasificación editable y desglose por categorías en Análisis. Conserva tus datos."
     },
     {
       "name": "Bloom",
@@ -36,3 +36,4 @@
     }
   ]
 }
+
