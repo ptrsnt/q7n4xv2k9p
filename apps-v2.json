@@ -6,12 +6,12 @@
       "name": "Panel Financiero",
       "bundleIdentifier": "com.panel.financiero",
       "developerName": "Personal",
-      "version": "1.2",
+      "version": "1.2.1",
       "versionDate": "2026-09-27",
       "iconURL": "https://raw.githubusercontent.com/ptrsnt/q7n4xv2k9p/main/PanelFinanciero-icon.png",
-      "downloadURL": "https://github.com/ptrsnt/q7n4xv2k9p/raw/refs/heads/main/PanelFinanciero-1.2.ipa",
-      "size": 1956970,
-      "localizedDescription": "Control financiero personal. Plan del mes en porcentajes sobre la nómina anterior: gastos necesarios, hormiga, ahorro e inversión. Clasificación editable y desglose por categorías en Análisis. Conserva tus datos."
+      "downloadURL": "https://github.com/ptrsnt/q7n4xv2k9p/raw/refs/heads/main/PanelFinanciero-1.2.1.ipa",
+      "size": 1955893,
+      "localizedDescription": "Control financiero personal. Recupera el check de gasto prescindible y el formato original del plan, con dos tarjetas por página. Mantiene porcentajes sobre la nómina anterior. Los gastos futuros pasan automáticamente de pendiente a retenido y cobrado según su fecha y los días de retención. Conserva tus datos."
     },
     {
       "name": "Bloom",
@@ -36,4 +36,3 @@
     }
   ]
 }
-
