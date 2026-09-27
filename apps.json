@@ -12,6 +12,27 @@
       "downloadURL": "https://github.com/ptrsnt/q7n4xv2k9p/raw/refs/heads/main/PanelFinanciero-1.1.1.ipa",
       "size": 1955955,
       "localizedDescription": "Control financiero personal. Cartera, mejoras de objetivos y carruseles, límites de gasto en rojo y correcciones de eliminación y suscripciones."
+    },
+    {
+      "name": "Bloom",
+      "bundleIdentifier": "com.paulatravieso.Bloom",
+      "developerName": "Personal",
+      "localizedDescription": "Seguimiento privado del ciclo y registros personales guardados en el iPhone.",
+      "iconURL": "https://raw.githubusercontent.com/ptrsnt/q7n4xv2k9p/main/Bloom-icon.png",
+      "versions": [
+        {
+          "version": "21.8.1",
+          "date": "2026-09-27",
+          "downloadURL": "https://raw.githubusercontent.com/ptrsnt/q7n4xv2k9p/main/Bloom-21.8.1.ipa",
+          "size": 2270482,
+          "minOSVersion": "17.0",
+          "localizedDescription": "Bloom con los últimos cambios visuales y de análisis. Actualización sobre la app existente conservando el almacenamiento local."
+        }
+      ],
+      "version": "21.8.1",
+      "versionDate": "2026-09-27",
+      "downloadURL": "https://raw.githubusercontent.com/ptrsnt/q7n4xv2k9p/main/Bloom-21.8.1.ipa",
+      "size": 2270482
     }
   ]
 }
