@@ -6,12 +6,12 @@
       "name": "Panel Financiero",
       "bundleIdentifier": "com.panel.financiero",
       "developerName": "Personal",
-      "version": "1.0",
-      "versionDate": "2026-08-31",
+      "version": "1.1.1",
+      "versionDate": "2026-09-27",
       "iconURL": "https://github.com/ptrsnt.png",
-      "downloadURL": "https://github.com/ptrsnt/q7n4xv2k9p/raw/refs/heads/main/PanelFinanciero-actualizada.ipa",
-      "size": 1996911,
-      "localizedDescription": "Control financiero personal."
+      "downloadURL": "https://github.com/ptrsnt/q7n4xv2k9p/raw/refs/heads/main/PanelFinanciero-1.1.1.ipa",
+      "size": 1955955,
+      "localizedDescription": "Control financiero personal. Cartera, mejoras de objetivos y carruseles, límites de gasto en rojo y correcciones de eliminación y suscripciones."
     }
   ]
 }
