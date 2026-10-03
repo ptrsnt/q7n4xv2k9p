@@ -6,12 +6,12 @@
       "name": "Panel Financiero",
       "bundleIdentifier": "com.panel.financiero",
       "developerName": "Personal",
-      "version": "1.2.1",
-      "versionDate": "2026-09-27",
+      "version": "1.2.2",
+      "versionDate": "2026-10-03",
       "iconURL": "https://raw.githubusercontent.com/ptrsnt/q7n4xv2k9p/main/PanelFinanciero-icon.png",
-      "downloadURL": "https://github.com/ptrsnt/q7n4xv2k9p/raw/refs/heads/main/PanelFinanciero-1.2.1.ipa",
-      "size": 1955893,
-      "localizedDescription": "Control financiero personal. Recupera el check de gasto prescindible y el formato original del plan, con dos tarjetas por página. Mantiene porcentajes sobre la nómina anterior. Los gastos futuros pasan automáticamente de pendiente a retenido y cobrado según su fecha y los días de retención. Conserva tus datos."
+      "downloadURL": "https://github.com/ptrsnt/q7n4xv2k9p/raw/refs/heads/main/PanelFinanciero-1.2.2.ipa",
+      "size": 1959136,
+      "localizedDescription": "Control financiero personal. Las aportaciones al ahorro se suman el mismo día y generan intereses estimados desde el siguiente. El cálculo se actualiza al cambiar de día; editar notas no reinicia el saldo. Análisis separa ahorro e inversión. Subcategorías con buscador, sugerencias aprendidas de tus movimientos y catálogo A–Z. Conserva los datos existentes."
     },
     {
       "name": "Bloom",
