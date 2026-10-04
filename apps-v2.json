@@ -6,12 +6,12 @@
       "name": "Panel Financiero",
       "bundleIdentifier": "com.panel.financiero",
       "developerName": "Personal",
-      "version": "1.2.2",
-      "versionDate": "2026-10-03",
+      "version": "1.2.3",
+      "versionDate": "2026-10-04",
       "iconURL": "https://raw.githubusercontent.com/ptrsnt/q7n4xv2k9p/main/PanelFinanciero-icon.png",
-      "downloadURL": "https://github.com/ptrsnt/q7n4xv2k9p/raw/refs/heads/main/PanelFinanciero-1.2.2.ipa",
-      "size": 1959136,
-      "localizedDescription": "Control financiero personal. Las aportaciones al ahorro se suman el mismo día y generan intereses estimados desde el siguiente. El cálculo se actualiza al cambiar de día; editar notas no reinicia el saldo. Análisis separa ahorro e inversión. Subcategorías con buscador, sugerencias aprendidas de tus movimientos y catálogo A–Z. Conserva los datos existentes."
+      "downloadURL": "https://github.com/ptrsnt/q7n4xv2k9p/raw/refs/heads/main/PanelFinanciero-1.2.3.ipa",
+      "size": 1963593,
+      "localizedDescription": "Control financiero personal. Análisis con Ahorro e Inversiones en desplegables separados: saldos, aportaciones, objetivos y gráficos independientes. Traspasos entre ahorros sin duplicar; revisión de saldos antiguos incoherentes. Plan basado en la nómina bancaria del mes anterior, excluyendo tarjetas restaurante. Subcategorías con selector nativo y búsqueda estable. Conserva los datos existentes."
     },
     {
       "name": "Bloom",
