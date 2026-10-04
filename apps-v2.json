@@ -21,6 +21,14 @@
       "iconURL": "https://raw.githubusercontent.com/ptrsnt/q7n4xv2k9p/main/Bloom-icon.png",
       "versions": [
         {
+          "version": "21.8.3",
+          "date": "2026-10-04",
+          "downloadURL": "https://raw.githubusercontent.com/ptrsnt/q7n4xv2k9p/main/Bloom-21.8.3.ipa",
+          "size": 2275588,
+          "minOSVersion": "17.0",
+          "localizedDescription": "Leyenda de las fases del ciclo debajo del gráfico de relaciones, con fertilidad orientativa y fuentes médicas. Márgenes seguros para que el contenido no quede bajo la hora, la batería ni la barra de inicio de iPhone. Se mantienen diseño, iconos y registros existentes."
+        },
+        {
           "version": "21.8.2",
           "date": "2026-09-27",
           "downloadURL": "https://raw.githubusercontent.com/ptrsnt/q7n4xv2k9p/main/Bloom-21.8.2.ipa",
@@ -29,10 +37,10 @@
           "localizedDescription": "Registro de productos por día y cantidad, sin horas ni cronómetros. Modo con hora opcional y análisis que excluye duraciones desconocidas. Conserva los registros anteriores."
         }
       ],
-      "version": "21.8.2",
-      "versionDate": "2026-09-27",
-      "downloadURL": "https://raw.githubusercontent.com/ptrsnt/q7n4xv2k9p/main/Bloom-21.8.2.ipa",
-      "size": 2272509
+      "version": "21.8.3",
+      "versionDate": "2026-10-04",
+      "downloadURL": "https://raw.githubusercontent.com/ptrsnt/q7n4xv2k9p/main/Bloom-21.8.3.ipa",
+      "size": 2275588
     }
   ]
 }
