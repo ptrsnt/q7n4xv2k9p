@@ -6,12 +6,12 @@
       "name": "Panel Financiero",
       "bundleIdentifier": "com.panel.financiero",
       "developerName": "Personal",
-      "version": "1.2.3",
-      "versionDate": "2026-10-04",
+      "version": "1.2.4",
+      "versionDate": "2026-10-06",
       "iconURL": "https://raw.githubusercontent.com/ptrsnt/q7n4xv2k9p/main/PanelFinanciero-icon.png",
-      "downloadURL": "https://github.com/ptrsnt/q7n4xv2k9p/raw/refs/heads/main/PanelFinanciero-1.2.3.ipa",
-      "size": 1963593,
-      "localizedDescription": "Control financiero personal. Análisis con Ahorro e Inversiones en desplegables separados: saldos, aportaciones, objetivos y gráficos independientes. Traspasos entre ahorros sin duplicar; revisión de saldos antiguos incoherentes. Plan basado en la nómina bancaria del mes anterior, excluyendo tarjetas restaurante. Subcategorías con selector nativo y búsqueda estable. Conserva los datos existentes."
+      "downloadURL": "https://github.com/ptrsnt/q7n4xv2k9p/raw/refs/heads/main/PanelFinanciero-1.2.4.ipa",
+      "size": 1963982,
+      "localizedDescription": "Control financiero personal. Corrige la edición de cuotas y suscripciones: los cambios solo afectan a los meses siguientes, sin borrar, regenerar ni modificar los cargos del mes actual o de meses anteriores. Conserva los cargos ya cobrados y las correcciones manuales existentes. Acortar o pausar solo retira cargos futuros; reactivar crea un nuevo periodo. Mantiene el resto de funciones y los datos guardados."
     },
     {
       "name": "Bloom",
