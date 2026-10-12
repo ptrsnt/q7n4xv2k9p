@@ -1,17 +1,18 @@
 {
   "name": "Mis apps",
   "identifier": "q7n4xv2k9p",
+  "iconURL": "https://raw.githubusercontent.com/ptrsnt/q7n4xv2k9p/main/Mis-apps-icon.png",
   "apps": [
     {
       "name": "Panel Financiero",
       "bundleIdentifier": "com.panel.financiero",
       "developerName": "Personal",
-      "version": "1.2.6",
+      "version": "1.2.7",
       "versionDate": "2026-10-12",
       "iconURL": "https://raw.githubusercontent.com/ptrsnt/q7n4xv2k9p/main/PanelFinanciero-icon.png",
-      "downloadURL": "https://github.com/ptrsnt/q7n4xv2k9p/raw/refs/heads/main/PanelFinanciero-1.2.6.ipa",
-      "size": 2029760,
-      "localizedDescription": "Registro de pagos presenciales de Apple Pay mediante Atajos. Evita duplicados de suscripciones y cuotas con coincidencia de comercio, cuenta e importe y hasta siete días de diferencia; las dudas quedan por revisar sin cambiar el saldo. Incluye ayuda de configuración en Movimientos. Los pagos se guardan en el iPhone y se incorporan al abrir el Panel. Conserva el historial y las funciones anteriores; no consulta el banco ni detecta por sí sola cobros recurrentes."
+      "downloadURL": "https://github.com/ptrsnt/q7n4xv2k9p/raw/refs/heads/main/PanelFinanciero-1.2.7.ipa",
+      "size": 2079413,
+      "localizedDescription": "Añade Registrar movimiento rápido para Atajos y el Centro de control: guarda gastos e ingresos tras confirmar sin abrir el Panel y los incorpora al volver a la app. Cuenta opcional en Apple Pay, identificada por el nombre de la tarjeta; las dudas quedan por revisar sin alterar saldos. Conserva las protecciones de duplicados, suscripciones y todas las funciones anteriores. Abre el Panel una vez tras actualizar para sincronizar las listas de Atajos."
     },
     {
       "name": "Bloom",
