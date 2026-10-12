@@ -1,17 +1,17 @@
 {
-  "name": "Panel Financiero",
+  "name": "Mis apps",
   "identifier": "q7n4xv2k9p",
   "apps": [
     {
       "name": "Panel Financiero",
       "bundleIdentifier": "com.panel.financiero",
       "developerName": "Personal",
-      "version": "1.2.4",
-      "versionDate": "2026-10-06",
+      "version": "1.2.5",
+      "versionDate": "2026-10-12",
       "iconURL": "https://raw.githubusercontent.com/ptrsnt/q7n4xv2k9p/main/PanelFinanciero-icon.png",
-      "downloadURL": "https://github.com/ptrsnt/q7n4xv2k9p/raw/refs/heads/main/PanelFinanciero-1.2.4.ipa",
-      "size": 1963982,
-      "localizedDescription": "Control financiero personal. Corrige la edición de cuotas y suscripciones: los cambios solo afectan a los meses siguientes, sin borrar, regenerar ni modificar los cargos del mes actual o de meses anteriores. Conserva los cargos ya cobrados y las correcciones manuales existentes. Acortar o pausar solo retira cargos futuros; reactivar crea un nuevo periodo. Mantiene el resto de funciones y los datos guardados."
+      "downloadURL": "https://github.com/ptrsnt/q7n4xv2k9p/raw/refs/heads/main/PanelFinanciero-1.2.5.ipa",
+      "size": 1970649,
+      "localizedDescription": "Nuevo apartado independiente en Análisis: tabla de gastos por subcategoría con los doce meses y el total anual, selector de año y categorías que puedes marcar o desmarcar individualmente o todas a la vez. Incluye Trabajo por defecto. Buscador dentro del filtro de subcategoría de Movimientos y del selector al añadir o editar. Corrige los importes y títulos al abrir burbujas de Inicio; mejora los espacios en detalles de Cartera y tarjetas de suscripciones. Desactiva el zoom solicitado. Mantiene las reglas de saldos, intereses y protección del historial de suscripciones, sin modificar tus datos."
     },
     {
       "name": "Bloom",
