@@ -7,12 +7,12 @@
       "name": "Panel Financiero",
       "bundleIdentifier": "com.panel.financiero",
       "developerName": "Personal",
-      "version": "1.2.8",
-      "versionDate": "2026-10-12",
+      "version": "1.2.9",
+      "versionDate": "2026-10-19",
       "iconURL": "https://raw.githubusercontent.com/ptrsnt/q7n4xv2k9p/main/PanelFinanciero-icon.png",
-      "downloadURL": "https://github.com/ptrsnt/q7n4xv2k9p/raw/refs/heads/main/PanelFinanciero-1.2.8.ipa",
-      "size": 2079660,
-      "localizedDescription": "Ajusta el tamaño inicial de las tarjetas de Inicio para evitar que se estiren al abrir la app tras actualizar. Conserva el diseño, la distribución, los deslizables y sus bolitas. Mantiene los datos, los cálculos y todas las funciones anteriores, incluidos Atajos y Apple Pay. Actualiza sin desinstalar el Panel."
+      "downloadURL": "https://github.com/ptrsnt/q7n4xv2k9p/raw/refs/heads/main/PanelFinanciero-1.2.9.ipa",
+      "size": 2094139,
+      "localizedDescription": "Nueva acción «Registrar Apple Pay (compatible)» que recibe el importe como texto para evitar el fallo de comunicación de Atajos. Tras actualizar, sustituye la acción antigua: Texto con Entrada del atajo → Importe y pasa ese texto a la nueva acción. Guía en Movimientos → Configurar Apple Pay. Conserva la revisión de duplicados y suscripciones; los importes o monedas dudosos quedan por revisar sin alterar saldos. El establecimiento es obligatorio en el registro rápido manual. Actualiza sin desinstalar."
     },
     {
       "name": "Bloom",
