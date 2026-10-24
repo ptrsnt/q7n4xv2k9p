@@ -7,12 +7,12 @@
       "name": "Panel Financiero",
       "bundleIdentifier": "com.panel.financiero",
       "developerName": "Personal",
-      "version": "1.2.9",
-      "versionDate": "2026-10-19",
+      "version": "1.2.10",
+      "versionDate": "2026-10-24",
       "iconURL": "https://raw.githubusercontent.com/ptrsnt/q7n4xv2k9p/main/PanelFinanciero-icon.png",
-      "downloadURL": "https://github.com/ptrsnt/q7n4xv2k9p/raw/refs/heads/main/PanelFinanciero-1.2.9.ipa",
-      "size": 2094139,
-      "localizedDescription": "Nueva acción «Registrar Apple Pay (compatible)» que recibe el importe como texto para evitar el fallo de comunicación de Atajos. Tras actualizar, sustituye la acción antigua: Texto con Entrada del atajo → Importe y pasa ese texto a la nueva acción. Guía en Movimientos → Configurar Apple Pay. Conserva la revisión de duplicados y suscripciones; los importes o monedas dudosos quedan por revisar sin alterar saldos. El establecimiento es obligatorio en el registro rápido manual. Actualiza sin desinstalar."
+      "downloadURL": "https://github.com/ptrsnt/q7n4xv2k9p/raw/refs/heads/main/PanelFinanciero-1.2.10.ipa",
+      "size": 2105293,
+      "localizedDescription": "Los nuevos gastos de Apple Pay se guardan como pagados, también al añadirlos desde revisión. El registro rápido muestra gastos pagados e ingresos cobrados y corrige el bucle de categoría/subcategoría. Mejora la identificación de cuenta por nombre de tarjeta e indica cuándo Atajos no lo envía; también admite una cuenta fija por automatización. Conserva el formulario normal pendiente, los movimientos anteriores, las suscripciones y la revisión de duplicados. Mantiene los atajos actuales. Actualiza sin desinstalar."
     },
     {
       "name": "Bloom",
